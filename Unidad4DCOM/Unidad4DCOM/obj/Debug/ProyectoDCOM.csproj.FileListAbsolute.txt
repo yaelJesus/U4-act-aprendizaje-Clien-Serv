@@ -1,0 +1,9 @@
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.csproj.AssemblyReference.cache
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.csproj.CoreCompileInputs.cache
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\bin\Debug\ProyectoDCOM.dll.config
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\bin\Debug\ProyectoDCOM.dll
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\bin\Debug\ProyectoDCOM.pdb
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.dll
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.pdb
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.Form1.resources
+C:\DCOMDemo\Server\ProyectoDCOM\ProyectoDCOM\obj\Debug\ProyectoDCOM.csproj.GenerateResource.cache
